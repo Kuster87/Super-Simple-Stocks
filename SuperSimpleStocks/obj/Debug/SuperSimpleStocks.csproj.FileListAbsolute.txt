@@ -23,3 +23,8 @@ C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug
 C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
 C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe.manifest
 C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.application
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\Executable\SuperSimpleStocks.exe.config
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\Executable\SuperSimpleStocks.exe.manifest
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\Executable\SuperSimpleStocks.application
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\Executable\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\Executable\SuperSimpleStocks.pdb
