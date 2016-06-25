@@ -1,0 +1,25 @@
+C:\Users\JFFF162-PC\AppData\Local\Temporary Projects\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Users\JFFF162-PC\AppData\Local\Temporary Projects\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+C:\Users\JFFF162-PC\AppData\Local\Temporary Projects\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\AppData\Local\Temporary Projects\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Users\JFFF162-PC\AppData\Local\Temporary Projects\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\AppData\Local\Temporary Projects\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.manifest
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.application
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe.manifest
+C:\Users\JFFF162-PC\Documents\Visual Studio 2015\Projects\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.application
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.manifest
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.application
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe.manifest
+C:\Users\JFFF162-PC\Source\Repos\Super-Simple-Stocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.application
